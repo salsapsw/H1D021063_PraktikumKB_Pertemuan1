@@ -17,37 +17,38 @@
 4. ![image](https://github.com/user-attachments/assets/393cf658-788b-422a-8401-1bba4689a1a5)
 
    Mengambil waktu dan tanggal saat ini dari sistem.
-   
-5. ![image](https://github.com/user-attachments/assets/bdb67ee3-863e-49f1-a386-e9cdeb8515d5)
-
    "%d %B %Y" → Mengubah format tanggal jadi "17 Maret 2025".
    "%H:%M:%S" → Mengubah format jam jadi "14:30:45" (24-jam format).
    
-6. ![image](https://github.com/user-attachments/assets/921795f1-2e38-42b4-ad45-c30c5a36b840)
+6. ![image](https://github.com/user-attachments/assets/bdb67ee3-863e-49f1-a386-e9cdeb8515d5)
 
    Menggunakan if-elif-else untuk menentukan ucapan berdasarkan jam saat ini.
    
-7. ![image](https://github.com/user-attachments/assets/f973b6dc-6f3e-4ffe-a3f5-b79d2c2a8bdf)
+7. ![image](https://github.com/user-attachments/assets/921795f1-2e38-42b4-ad45-c30c5a36b840)
 
    Menampilkan sapaan berdasarkan waktu, tanggal, dan jam yang telah diformat dan menampilkan motivasi yang sesuai dengan waktu saat ini.
    
-8. ![image](https://github.com/user-attachments/assets/84d45ddd-562e-486f-8ba0-644817eef64b)
+8. ![image](https://github.com/user-attachments/assets/f973b6dc-6f3e-4ffe-a3f5-b79d2c2a8bdf)
 
    Menyimpan daftar (list) angka yang akan dihitung kuadratnya.
    
-9. ![image](https://github.com/user-attachments/assets/bba1d2b6-b654-47da-912e-e423aed1af35)
-   
+9. ![image](https://github.com/user-attachments/assets/84d45ddd-562e-486f-8ba0-644817eef64b)
+
    Ini adalah dictionary kosong untuk menyimpan angka dan hasil kuadratnya.
-
-10. ![image](https://github.com/user-attachments/assets/f50e1af1-b7e4-4a1a-ab79-368b9c8f93aa)
-
-    Menggunakan perulangan for untuk menghitung kuadrat setiap angka dalam angka_list.
+   
+10. ![image](https://github.com/user-attachments/assets/bba1d2b6-b654-47da-912e-e423aed1af35)
+   
+   Menggunakan perulangan for untuk menghitung kuadrat setiap angka dalam angka_list.
     Menggunakan math.pow(angka, 2) untuk menghitung kuadratnya.
     Hasilnya disimpan dalam dictionary hasil_kuadrat
 
-11. ![image](https://github.com/user-attachments/assets/268ab0c1-f516-4caa-b6c4-68f74d1e81ef)
+11. ![image](https://github.com/user-attachments/assets/f50e1af1-b7e4-4a1a-ab79-368b9c8f93aa)
 
     Menggunakan for loop untuk menampilkan hasil kuadrat yang sudah disimpan dalam dictionary hasil_kuadrat.
+
+12. ![image](https://github.com/user-attachments/assets/268ab0c1-f516-4caa-b6c4-68f74d1e81ef)
+
+    Memastikan bahwa main() hanya dijalankan jika file ini dieksekusi langsung, bukan saat diimpor sebagai modul dalam program lain.
 
 
 
