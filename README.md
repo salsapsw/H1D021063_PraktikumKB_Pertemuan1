@@ -1,5 +1,9 @@
 ﻿# H1D021063_PraktikumKB_Pertemuan1
 
+ Contoh Hasil 
+ ![image](https://github.com/user-attachments/assets/afda1ac6-d8c8-42ff-ac1e-d430e2c2c347)
+
+
 1. ![image](https://github.com/user-attachments/assets/a239f2d7-6fcb-43ac-9a3b-d5b02be9e1d5)
    
    math → Digunakan untuk melakukan operasi matematika, dalam program ini dipakai untuk menghitung kuadrat angka.
